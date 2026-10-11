@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.svg" alt="Project Banner" width="100%">
+</p>
+
 # Mcp Server Docker Ts 🦈⭐
 
 [![Stars](https://img.shields.io/github/stars/Dali5599/mcp-server-docker-ts?style=flat-square&color=ffd700)](https://github.com/Dali5599/mcp-server-docker-ts/stargazers)
